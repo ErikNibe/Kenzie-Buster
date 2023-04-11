@@ -34,9 +34,7 @@ THIRD_PARTY_APPS = [
     "rest_framework",
 ]
 
-MY_APPS = [
-    "users",
-]
+MY_APPS = ["users", "movies"]
 
 DJANGO_APPS = [
     "django.contrib.admin",
